@@ -7,4 +7,4 @@
 此项目排版模仿读读狗网站，实现了用户购买与下载图书的功能。
 
 数据库可通过eneity包中的类自行添加。
-![主页面](https://github.com/world5565/BookStore/tree/master/%E6%95%88%E6%9E%9C%E5%9B%BE)
+![主页面](https://github.com/world5565/BookStore/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E4%B8%BB%E9%A1%B5%E9%9D%A2.png)
